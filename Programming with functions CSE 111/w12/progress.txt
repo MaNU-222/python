@@ -1,0 +1,38 @@
+1.	Did you spend at least three hours on your Python program or test functions during the current lesson?
+    I spend 1 hour and 30 minutes in four days which is total of 6 hours.
+
+2.	Organization:
+    1.	Is your program organized into multiple functions?
+        Yes, my program has 2 main functions and indented functions
+    2.	Does each function in your program perform just one task?
+        Yes
+
+3.	Progress:
+    Did you complete some significant part of your program during the current week?
+    Most oof the complicated part was completed by 65%, Yes.
+4.	Description:
+    1.	A list of the function names in your program.
+        -	Main()
+        -	Populate_main_window(frm_main)
+        -	Calculate_ci()
+        -	Clear_all()
+
+    2.	A list of the test function names in your test code.
+    -	exceptions
+
+    3.	A list of the documentation that you read, the videos that you watched, and the coding experiments that you tried.
+        
+        ON YOUTUBE:
+        How to use tkinter for GUI
+        Making interest calculator with tkinter
+
+        STACKOVER FLOW
+        How to use tkinter for GUI
+
+        WEEK MODUKES 
+	    Week 12 Team activity.
+
+4.	A description or list of the work that you finished on your program.
+
+    I finished the display of the graphic user interface and the entry part, the clear buttons was working perfectly well and some other functions for calculating the compound interest.
+    I imported tkinter as tk and number entry as neat, this modules helped me to accomplish some of the task.
